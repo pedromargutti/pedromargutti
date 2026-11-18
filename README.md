@@ -52,7 +52,7 @@
 
 | Repositório | O que tem |
 |---|---|
-| [AVANTIPACK]([https://github.com/pedromargutti/uninove-ads](https://github.com/pedromargutti/AVANTIPACK](https://github.com/pedromargutti/AVANTIPACK.git))) | Pack de otimização para PC |
+| [AVANTIPACK](https://github.com/pedromargutti/AVANTIPACK.git) | Pack de otimização para PC |
 
 <!-- Adicione aqui os próximos projetos, ex.: homelab-proxmox-wazuh, scripts-helpdesk -->
 
