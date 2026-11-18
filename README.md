@@ -52,7 +52,7 @@
 
 | Repositório | O que tem |
 |---|---|
-| [uninove-ads](https://github.com/pedromargutti/uninove-ads) | Atividades e projetos do curso de ADS, organizados por disciplina |
+| [AVANTIPACK]([https://github.com/pedromargutti/uninove-ads](https://github.com/pedromargutti/AVANTIPACK)) | Atividades e projetos do curso de ADS, organizados por disciplina |
 
 <!-- Adicione aqui os próximos projetos, ex.: homelab-proxmox-wazuh, scripts-helpdesk -->
 
