@@ -109,11 +109,8 @@ Sou **Estagiário de Suporte de TI** e gosto de deixar o ambiente funcionando, s
 ## 📂 Projetos
 
 | Projeto | Descrição | Status |
-|---|---|---|
-| [uninove-ads](https://github.com/pedromargutti/uninove-ads) | Atividades e projetos do curso de ADS, organizados por disciplina | ✅ |
-| homelab-proxmox-wazuh | Laboratório com Proxmox e Wazuh documentado passo a passo | 🚧 Em construção |
-| scripts-helpdesk | Automações e scripts para tarefas repetitivas do suporte | 🚧 Em construção |
-| base-conhecimento-suporte | Tutoriais dos problemas mais comuns do Help Desk | 🚧 Em construção |
+|---|---|---|Ati
+| [avantipack](https://github.com/pedromargutti/AVANTIPACK.git) | Otimização do Windows para jogos que se adapta às peças do seu PC | ✅ |
 
 ---
 
