@@ -1,8 +1,8 @@
 <!-- ===================== BANNER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Henrique%20Margutti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Suporte%20T%C3%A9cnico%20de%20TI%20%7C%20Help%20Desk%20N1%2FN2%20%7C%20Infraestrutura&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0e12,55:1d43ff,100:00d6ff&height=200&section=header&text=Pedro%20Henrique%20Margutti&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Suporte%20T%C3%A9cnico%20de%20TI%20%7C%20Help%20Desk%20N1%2FN2%20%7C%20Infraestrutura&descAlignY=56&descSize=16" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Help+Desk+N1%2FN2+%F0%9F%9B%A0%EF%B8%8F;Microsoft+365+%7C+Azure+%7C+Entra+ID+%7C+Intune+%E2%98%81%EF%B8%8F;Proxmox+%2B+Wazuh+%F0%9F%9B%A1%EF%B8%8F;Automa%C3%A7%C3%B5es+com+PowerShell+%E2%9A%99%EF%B8%8F;Criador+do+AVANTIPACK+%F0%9F%8E%AE;Estudante+de+ADS+na+Uninove+%F0%9F%8E%93" alt="Texto animado"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D6FF&center=true&vCenter=true&width=650&lines=Help+Desk+N1%2FN2+%F0%9F%9B%A0%EF%B8%8F;Microsoft+365+%7C+Azure+%7C+Entra+ID+%7C+Intune+%E2%98%81%EF%B8%8F;Proxmox+%2B+Wazuh+%F0%9F%9B%A1%EF%B8%8F;Automa%C3%A7%C3%B5es+com+PowerShell+%E2%9A%99%EF%B8%8F;Criador+do+app+AVANTIPACK+%F0%9F%8E%AE;Estudante+de+ADS+na+Uninove+%F0%9F%8E%93" alt="Texto animado"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <!-- ===================== SOBRE MIM ===================== -->
 ## 👨‍💻 Sobre mim
 
-Sou **Estagiário de Suporte de TI** e gosto de deixar o ambiente funcionando, seguro e organizado. Trabalho no dia a dia com **Help Desk**, **Microsoft 365**, **virtualização** e **monitoramento de segurança**, e gosto de **automatizar** tarefas com PowerShell. Meu principal projeto é o **[AVANTIPACK](https://github.com/pedromargutti/AVANTIPACK)**, um otimizador de Windows feito do zero.
+Sou **Estagiário de Suporte de TI** e gosto de deixar o ambiente funcionando, seguro e organizado. Trabalho no dia a dia com **Help Desk**, **Microsoft 365**, **virtualização** e **monitoramento de segurança**, e gosto de **automatizar** tarefas com PowerShell. Meu principal projeto é o **[AVANTIPACK](https://github.com/pedromargutti/AVANTIPACK)**, um app de otimização do Windows para jogos que criei do zero e vendo na versão Pro.
 
 - 🏢 Hoje: **Suporte de TI na CBI São Paulo**, com um parque de **32 máquinas** e cerca de **20 chamados por dia**
 - 🎓 Estudo: **Análise e Desenvolvimento de Sistemas** na **Uninove** (2º semestre, conclusão prevista para 2028)
@@ -110,38 +110,39 @@ Sou **Estagiário de Suporte de TI** e gosto de deixar o ambiente funcionando, s
 ## 🚀 Projeto em destaque
 
 <a href="https://github.com/pedromargutti/AVANTIPACK">
-  <img src="https://raw.githubusercontent.com/pedromargutti/AVANTIPACK/main/docs/img/banner.svg" alt="AVANTIPACK" width="100%"/>
+  <img src="https://raw.githubusercontent.com/pedromargutti/AVANTIPACK/main/docs/img/hero.svg" alt="AVANTIPACK: seu Windows pronto para jogar" width="100%"/>
 </a>
 
 ### 🎮 [AVANTIPACK](https://github.com/pedromargutti/AVANTIPACK)
 
-**Otimizador de Windows para jogos que se adapta às peças do PC.** Ele lê o hardware (processador, placa de vídeo, RAM, disco e versão do Windows) e aplica só os ajustes seguros para aquela máquina, com backup de cada valor original para desfazer tudo com um clique.
+**App de otimização do Windows para jogos que se adapta às peças do PC.** Ele lê processador, placa de vídeo, memória, disco e versão do Windows, aplica só o que serve para aquela máquina e guarda o valor original de cada ajuste para desfazer com um clique. Tem versão grátis com código aberto e uma versão **Pro** vendida online, com licença por PC.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <b>O que ele faz</b>
       <ul>
-        <li>💯 Diagnóstico do PC com nota de 0 a 100</li>
-        <li>🧹 Limpeza de temporários e caches</li>
-        <li>🔧 19 reparos prontos (internet, som, Windows Update…)</li>
-        <li>📦 Instala programas e drivers certos via winget</li>
-        <li>↩️ Ponto de restauração e desfazer por função</li>
-        <li>🔄 Atualização automática pelas Releases do GitHub</li>
+        <li>💯 Pontuação de desempenho de 0 a 100 e diagnóstico do PC</li>
+        <li>⚡ Otimização recomendada para o hardware, com backup</li>
+        <li>🧹 Limpeza, cache de shaders e 19 reparos do Windows</li>
+        <li>⭐ Pro: perfil de jogo automático, benchmark de FPS, Raio-X da BIOS e auditoria de input lag</li>
+        <li>↩️ Ponto de restauração e desfazer por ajuste</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <b>Como foi feito</b>
       <ul>
-        <li>⚙️ Motor em <b>PowerShell</b> e <b>Batch</b></li>
-        <li>🖥️ Launcher .exe próprio escrito em <b>C</b></li>
-        <li>📖 Guias ilustrados de BIOS e painéis NVIDIA/AMD</li>
-        <li>🏷️ Versionamento e Releases no GitHub (v0.8.0)</li>
+        <li>🖥️ App desktop em <b>C# (WinForms)</b> com visual próprio</li>
+        <li>⚙️ Motor em <b>PowerShell</b>, conversando com o app por <i>named pipe</i></li>
+        <li>🔐 Licenças num servidor <b>Cloudflare Workers</b> e pacotes assinados (ECDSA P-256)</li>
+        <li>🔄 Atualização automática que confere a assinatura antes de trocar o app</li>
+        <li>🤖 Releases com <b>GitHub Actions</b> e página de ativação no <b>GitHub Pages</b></li>
       </ul>
       <p>
+        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white"/>
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Batch-4D4D4D?style=flat&logo=windowsterminal&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
         <img src="https://img.shields.io/badge/Windows_10%20%7C%2011-0078D4?style=flat"/>
       </p>
     </td>
@@ -149,22 +150,35 @@ Sou **Estagiário de Suporte de TI** e gosto de deixar o ambiente funcionando, s
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pedromargutti/AVANTIPACK/main/docs/img/demo.gif" alt="AVANTIPACK em ação" width="720"/>
+  <img src="https://raw.githubusercontent.com/pedromargutti/AVANTIPACK/main/docs/img/app_painel.png" alt="Painel do app AVANTIPACK" width="760"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/pedromargutti/AVANTIPACK"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-1d43ff?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/pedromargutti/AVANTIPACK/releases/latest"><img src="https://img.shields.io/github/v/release/pedromargutti/AVANTIPACK?style=for-the-badge&color=008cff&label=vers%C3%A3o"/></a>
-  <a href="https://github.com/pedromargutti/AVANTIPACK/releases"><img src="https://img.shields.io/github/downloads/pedromargutti/AVANTIPACK/total?style=for-the-badge&color=16c60c&label=downloads"/></a>
+  <a href="https://github.com/pedromargutti/AVANTIPACK"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-2e68ff?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/pedromargutti/AVANTIPACK/releases/latest"><img src="https://img.shields.io/github/v/release/pedromargutti/AVANTIPACK?style=for-the-badge&color=00a6ff&label=vers%C3%A3o"/></a>
+  <a href="https://github.com/pedromargutti/AVANTIPACK/releases"><img src="https://img.shields.io/github/downloads/pedromargutti/AVANTIPACK/total?style=for-the-badge&color=3ddc97&label=downloads"/></a>
+</p>
+
+---
+
+## 🧪 Laboratório
+
+### 🏢 [Homelab: Active Directory + GLPI no Proxmox](https://github.com/pedromargutti/homelab-ad-glpi)
+
+Infraestrutura de suporte montada do zero: domínio **Active Directory** com GPOs, estação Windows 11 no domínio e service desk **GLPI** integrado ao AD, com inventário automático e chamados. Scripts de automação em PowerShell.
+
+<p>
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GLPI-FEC70B?style=flat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white"/>
 </p>
 
 ---
 
 ## 🎓 Faculdade
 
-### 📚 [uninove-ads](https://github.com/pedromargutti/uninove-ads)
-
-Atividades e projetos do curso de **Análise e Desenvolvimento de Sistemas** na Uninove, organizados por disciplina.
+Atividades do curso de **Análise e Desenvolvimento de Sistemas** na Uninove: [Arquitetura de Software](https://github.com/pedromargutti/uninove-2026-2-arquitetura-software) e as atividades [1](https://github.com/pedromargutti/ATIVIDADE-1---12-08-2026), [2](https://github.com/pedromargutti/ATIVIDADE-2---26-08-2026), [3](https://github.com/pedromargutti/ATIVIDADE-3---26-08-2026), [4](https://github.com/pedromargutti/ATIVIDADE-4---02-09-2026) e [5](https://github.com/pedromargutti/ATIVIDADE-5---02-09-2026).
 
 ---
 
@@ -191,4 +205,4 @@ Estou aberto a oportunidades em **Suporte Técnico, Help Desk e Analista de Supo
   <a href="mailto:pedrohmargutti@gmail.com"><img src="https://img.shields.io/badge/pedrohmargutti@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d6ff,45:1d43ff,100:0c0e12&height=110&section=footer" width="100%"/>
